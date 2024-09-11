@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallpapercave.com/wp/wp6350578.jpg)]
+![MasterHead](https://wallpapercave.com/wp/wp6350578.jpg)
 
 
 
@@ -7,7 +7,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Swiggy**
+- 🔭 I’m currently working on **Development**
 
 - 💬 Ask me about **React,Python**
 
